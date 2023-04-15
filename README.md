@@ -11,5 +11,5 @@ NextJs | Tailwind CSS | TypeScript | Lucide
 ## Screenshots
 
 <p align="center">
-  <img alt="Page" src=".github/Screenshot.png" width="80%">
+  <img alt="Page" src=".github/ScreenShot.png" width="80%">
 </p>
